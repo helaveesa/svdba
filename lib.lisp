@@ -450,7 +450,8 @@ If objs are of different classes the result is NIL."
 
 
 (defun re-tpl ()
-  (closure-template:compile-template :common-lisp-backend #P"tpl/root.htm"))
+  (closure-template:compile-template :common-lisp-backend #P"tpl/root.htm")
+  (closure-template:compile-template :common-lisp-backend #P"tpl/content.htm"))
 
 (defun re-path ()
   (restas:mount-submodule -css- (#:restas.directory-publisher)

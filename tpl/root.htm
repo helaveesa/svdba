@@ -4,45 +4,46 @@
 
 {template root}
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-  <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">{\n}
+<html xmlns="http://www.w3.org/1999/xhtml">{\n}
+  <head>{\n}
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />{\n}
 
-    <title>{$headtitle}</title>
+    <title>{$headtitle}</title>{\n}
 
 	<link rel="stylesheet" href="/css/style.css" type="text/css" media="screen, projection" />{\n}
 
-    <style type="text/css" media="screen">
-    </style>
+    <style type="text/css" media="screen">{\n}
+    </style>{\n}
 
-  </head>
-  <body>
+  </head>{\n}
+  <body>{\n}
 
-    <div class="main" align="center" style="position: relative;">
+    <div class="main" align="center" style="position: relative;">{\n}
 
-      <div class="bodyPOD">
-        <div class="podlogka" style="border: 1px solid red;"></div>
-      </div>
+      <div class="bodyPOD">{\n}
+        <div class="podlogka" style="border: 1px solid red;"></div>{\n}
+      </div>{\n}
 
-      <div class="bodysite">
+      <div class="bodysite">{\n}
 
-        <div class="headbox">
-          {$headbox}
-        </div>
+        <div class="headbox" style="border: 1px solid green;">{\n}
+          {$headbox |noAutoescape}
+        </div>{\n}
 
-        <div class="content">
-          {$content}
-        </div>
-      </div>
+        <div class="content" style="border: 1px solid blue;">{\n}
+          {$content |noAutoescape}
+        </div>{\n}
 
-      <div class="footer">
-        {$footer}
-      </div>
+      </div>{\n}
 
-    </div>
+      <div class="footer" style="border: 1px solid yellow;">{\n}
+        {$footer |noAutoescape}
+      </div>{\n}
 
-  </body>
-  </html>
+    </div>{\n}
+
+  </body>{\n}
+  </html>{\n}
 
 {/template}

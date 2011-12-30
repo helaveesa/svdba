@@ -8,7 +8,7 @@
   (tpl:root
    (list :headtitle "svdba project"
          :headbox "headbox"
-         :content "content"
+         :content (tpl:content)
          :footer "footer")))
 
 ;; before start-session

@@ -4,7 +4,7 @@
 (query "SET NAMES utf8")
 
 
-(restas:start '#:svdba :port 8082)
+(restas:start '#:svdba :port 7071)
 
 (restas:debug-mode-on)
 
