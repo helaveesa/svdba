@@ -2,16 +2,13 @@
 
 (defclass svdba-render () ())
 
-(setf *default-render-method* (mi 'svdba-render))
+(setf *default-render-method* (make-instance 'svdba-render))
 
-(defmethod restas:render-object ((designer svdba-render) (acts list))
+
+(defmethod restas:render-object ((designer svdba-render) (acts t))
   (tpl:root
    (list :headtitle "svdba project"
          :headbox "headbox"
          :content (tpl:content)
          :footer "footer")))
-
-;; before start-session
-(defmethod restas:render-object :before ((designer svdba-render) (acts list))
-  (hunchentoot:start-session))
 
