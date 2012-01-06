@@ -1,0 +1,34 @@
+function open_win(loc,id,width,height,resize,scroll)
+{
+    var top = (screen.height - height) / 2;
+    var left = (screen.width - width) / 2;
+    window.open(loc,id,"width="+width+",height="+height+",left="+left+",top="+top+",scrollbars="+scroll+",resizable="+resize+",status=yes");
+}
+
+function do_action(act,id,width,height,resize,scroll)
+{
+    if (!width)
+    {
+        width = 512;
+        height = 384;
+        resize = "no";
+        scroll = "no";
+    }
+    open_win(act,id,width,height,resize,scroll);
+}
+
+function do_action_2(id)
+{
+    open_win("about:blank",id,"400","300","no","no");
+}
+
+function print_email(prefix, postfix, user)
+{
+
+    var str = prefix + '@' + postfix;
+    if (!user || user == '')
+    {
+        user = str;
+    }
+    document.write('<a href="mailto:'+ str + '">'+ user +'</a>');
+}

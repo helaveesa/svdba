@@ -1,0 +1,44 @@
+/* CSS Document */
+
+
+a:active {  text-decoration: none; font-style: normal; color: #999999}
+a:hover {  color: #cccccc; text-decoration: none}
+a:link {  color: #999999; text-decoration: none}
+a {  color: #999999; text-decoration: none}
+
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;	font-size: 10px;
+	color: #999999
+	}
+	table {
+	color: #999999
+	}
+
+td, th {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px
+	}
+	
+
+
+
+
+form {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	}
+
+input {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+}
+
+textarea {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+}
+
+select {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+}

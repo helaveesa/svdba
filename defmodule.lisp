@@ -9,7 +9,7 @@
 (in-package #:svdba)
 
 
-(let ((path '(:RELATIVE "svdba")))
+(let ((path '(:RELATIVE "repo/svdba")))
   (setf asdf:*central-registry*
         (remove-duplicates (append asdf:*central-registry*
                                    (list (merge-pathnames

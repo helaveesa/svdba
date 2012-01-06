@@ -1,0 +1,29 @@
+function show_counter()
+{
+    var text = 'ПРАЗДНИКИ';
+    var link = 'http://best-party.ru/';
+    var err = '';
+    var o = document.getElementById('best_party_code');
+    var innertext = o.innerHTML;
+    if (o.all)
+    {
+        var innerlink = o.all.tags("a")[0].href;
+    }
+    else
+    {
+        var innerlink = '';
+        var link = '';
+    }
+
+    if (innertext.indexOf(text) == -1 || link != innerlink)
+    {
+        err = 'Код счётчика Best-Party.ru был изменён. Верните его к исхоному виду.';
+    }
+    if (err == '')
+    {document.write('<b>190</b><br>86767');    }
+    else
+    {
+        alert(err);
+        //window.location.href = 'http://best-party.ru';
+    }
+}

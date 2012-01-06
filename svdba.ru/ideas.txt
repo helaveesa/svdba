@@ -1,0 +1,13 @@
+Content Item:
+
+addr
+date
+comments
+backlinks
+
+print version
+send to e-mail
+
+Искать похожее на других сайтах
+
+Обзор рынка
