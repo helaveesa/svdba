@@ -67,9 +67,9 @@
 
   {if $content}
     <div class="content">{\n}
-      <div class="text">
+      {if $intext}<div class="text">{/if}
         {$content |noAutoescape}{\n}
-      </div>
+      {if $intext}</div>{/if}
 
       {if $leftimg}
         <div class="photo">

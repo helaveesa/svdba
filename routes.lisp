@@ -56,6 +56,7 @@
          ;; :opt5 t
          ;; :container "cuba"
          :leftimg t
+         :intext t
          )))
 
 
