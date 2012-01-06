@@ -2,6 +2,10 @@
 
 {namespace tpl}
 
+{template navelt}
+  <div><a href="{$link}">{$title}</a></div>{\n}
+{/template}
+
 {template root}
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">{\n}
 <html xmlns="http://www.w3.org/1999/xhtml">{\n}
@@ -26,12 +30,9 @@
 
     {if $topmenu}
       <div class="menu">{\n}
-        <div><a href="/">Главная</a></div>{\n}
-        <div><a href="/santorini/planning/">Планирование и бюджет</a></div>{\n}
-        <div><a href="/santorini/whywe/">Почему мы</a></div>{\n}
-        <div><a href="/santorini/about/">Санторини</a></div>{\n}
-        <div><a href="/santorini/gallery/">Фотогалерея</a></div>{\n}
-        <div><a href="/contacts/">Свяжитесь с нами</a></div>{\n}
+        {foreach $elt in $navpoints}
+          {call navelt data="$elt" /}
+        {/foreach}
       </div>{\n}
     {/if}
 
