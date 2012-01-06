@@ -7,15 +7,17 @@
                  #:restas-directory-publisher
                  #:closure-template)
   :serial       t
-  :components   ((:file "defmodule")
-                 ;; (:file "orgmode")
+  :components   ((:static-file "templates.htm")
+                 (:file "defmodule")
+                 (:file "orgmode")
                  ;; (:file "sape")
                  (:file "render")
                  (:file "routes")
                  (:file "init")
-                 (:module "tpl"
-                          :serial t
-                          :components ((:static-file "root.htm")))))
+                 (:static-file "daemon.conf")
+                 (:static-file "daemon.lisp")
+                 (:static-file "daemon.sh")))
+
 
 
 
