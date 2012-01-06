@@ -1,9 +1,9 @@
-var activePhoto = 0;
+var activePhoto = "10";
 var animationStack = [];
 var animationComplete = true;
 var base_url = '/';
 var imageName = '';
-var section = 'santorini';
+var section = 'sect';
 
 $( function init() {
   if (!$('#photoGallery').html()) {

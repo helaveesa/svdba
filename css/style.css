@@ -160,8 +160,7 @@ h1 {
 }
 
 
-.cuba .photo-options .photo {background:url(/img/photo-cuba-0.png) center left no-repeat;}
-.cuba .photo-options .photo div {background:url(/img/photo-cuba-0.png) center left no-repeat;}
+.photo-options .photo div {background:url(/img/photo-sect-00.png) center left no-repeat;}
 
 .index .header .logo {float:none; margin:0 auto;}
 .index .photo-options {width:904px; margin:40px auto 0;}

@@ -7,10 +7,10 @@
 <html xmlns="http://www.w3.org/1999/xhtml">{\n}
 
 <head>{\n}
-	<title>свадьба</titl>{\n}
+	<title>{$headtitle}</title>{\n}
 	<link rel="stylesheet" href="/css/style.css" type="text/css" />{\n}
-	<meta name="keywords" content="" />{\n}
-	<meta name="description" content="свадьба" />{\n}
+	<meta name="keywords" content="{$keywords}" />{\n}
+	<meta name="description" content="{$description}" />{\n}
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />{\n}
 	<script src="/js/jquery.js"></script>{\n}
 	<script src="/js/melisa.js"></script>{\n}
@@ -20,35 +20,70 @@
 
 <div class="top-line"></div>{\n}
 
-<div class="page-container index">{\n}
+<div class="page-container {$container}">{\n}
   <div class="header">{\n}
     <a href="/" class="logo"></a>{\n}
+
+    {if $topmenu}
+      <div class="menu">{\n}
+        <div><a href="/">Главная</a></div>{\n}
+        <div><a href="/santorini/planning/">Планирование и бюджет</a></div>{\n}
+        <div><a href="/santorini/whywe/">Почему мы</a></div>{\n}
+        <div><a href="/santorini/about/">Санторини</a></div>{\n}
+        <div><a href="/santorini/gallery/">Фотогалерея</a></div>{\n}
+        <div><a href="/contacts/">Свяжитесь с нами</a></div>{\n}
+      </div>{\n}
+    {/if}
+
   </div>{\n}
 
   <div class="clear"></div>{\n}
 
-  <div class="photo-options">{\n}
-    <div id="wp" class="photo">{\n}
-      <a href="/santorini/" id="wedding-santorini">Свадьба на Санторини</a>{\n}
-      <a href="/cuba/" id="wedding-cuba">Свадьба на Кубе</a>{\n}
+  {if $opt2}
+    <div class="photo-options">{\n}
+      <div id="wp" class="photo">{\n}
+        <a href="/santorini/" id="wedding-santorini">Свадьба на Санторини</a>{\n}
+        <a href="/cuba/" id="wedding-cuba">Свадьба на Кубе</a>{\n}
+      </div>{\n}
     </div>{\n}
-  </div>{\n}
+    <div class="clear"></div>{\n}
+  {/if}
 
-  <div class="clear"></div>{\n}
+  {if $opt5}
+    <div class="photo-options">
+      <div id="wp" class="photo">
+        <div id="wp-cover"></div>
+      </div>
+      <div class="options">
+        <div id="wo01">венчание</div>
+        <div id="wo02">гражданская свадьба</div>
+        <div id="wo03">символическая свадьба</div>
+        <div id="wo04">свадьба в газебо</div>
+        <div id="wo05" class="last">свадьба на пляже</div>
+      </div>
+    </div>
+    <div class="clear"></div>
+  {/if}
 
+  {if $content}
+    <div class="content">{\n}
+      <div class="text">
+        {$content |noAutoescape}{\n}
+      </div>
 
-  <div class="content">{\n}
-    <p>&nbsp;</p>{\n}
-<p>Дорогие жених и невеста! Меня зовут Катерина, я свадебный координатор, и я рада приветствовать Вас на сайте моего свадебного агентства &laquo;Melisa&raquo; - агентства, которое готово превратить Ваши фантазии о свадьбе в прекрасную реальность.
-</p>
-<p>Вы можете выбрать один из двух оригинальных сценариев: незабываемую свадьбу на берегу теплого Карибского моря на острове Куба в жаркой атмосфере южной страсти  и тропической экзотики, что станет удивительным южным приключением в разгар зимы (сезон на Кубе наступает в конце осени и длится до наступления весны), или романтическое торжество на волшебно-прекрасном греческом острове Санторини, особенно красивом летом, в сопровождении тихого шелеста бирюзовых волн Эгейского моря и сияния жемчужных звезд.
-<br /><br />
-Я лично прошла все сложности, связанные с организацией свадьбы за границей, и знаю все возможные подводные камни, и поэтому могу твердо пообещать - если Вы решите провести свою свадьбу на Санторини или на Кубе, я буду рядом и с радостью помогу осуществить все Ваши фантазии и возьму на себя все хлопоты, связанные с проведением Вашего праздника.
-</p>
-  </div>
+      {if $leftimg}
+        <div class="photo">
+          <img src="/img/photo-inner-7.jpg" />
+        </div>
+      {/if}
+
+    </div>
+  {/if}
+
+  <div class="clear"></div>
 
   <div class="footer">{\n}
-        <div class="copy">{\n}
+    <div class="copy">{\n}
       Melisa wedding &copy; 2010{\n}
     </div>{\n}
     <div class="contacts">{\n}

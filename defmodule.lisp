@@ -24,8 +24,6 @@
   (merge-pathnames relative *basedir*))
 
 (closure-template:compile-template :common-lisp-backend (path "tpl/root.htm"))
-(closure-template:compile-template :common-lisp-backend (path "tpl/content.htm"))
-
 
 (defclass orgdata ()
   ((content :accessor orgdata-content)
