@@ -1,6 +1,7 @@
 -*- mode: org; fill-column: 95 -*-
 @title About
 @pagetype text
+@leftimg photo-inner-7.jpg
 
 <h1>About</h1>
 Хочу поделиться с Вами маленькой тайной. Совсем недавно я, также как и Вы, думала о том, какой

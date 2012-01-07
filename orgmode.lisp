@@ -47,7 +47,6 @@
                                   (find-directive "@container")
                                   (find-directive "@topmenu")
                                   (find-directive "@leftimg")
-                                  (find-directive "@intext")
                                   (find-directive "@pagetype")
                                   (find-directive "@leftlink")
                                   (find-directive "@rightlink")

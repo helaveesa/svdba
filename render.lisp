@@ -24,9 +24,7 @@
            (setf (getf directives :topmenu) t
                  (getf directives :selector5) t))
           ((equal (getf directives :pagetype)  "text")
-           (setf (getf directives :topmenu) t
-                 (getf directives :leftimg) t
-                 (getf directives :intext) t)))
+           (setf (getf directives :topmenu) t)))
     (restas:render-object
      designer
      (list :headtitle  (getf directives :title)
