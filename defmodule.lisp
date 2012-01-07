@@ -30,7 +30,7 @@
    (sections :accessor orgdata-sections)
    (directives :accessor orgdata-directives)))
 
-(defparameter *articles* (make-hash-table :test #'equal))
+;; (defparameter *articles* (make-hash-table :test #'equal))
 ;; (defparameter *cached-articles-page* nil)
 
 ;; (defparameter *aliens* (make-hash-table :test #'equal))

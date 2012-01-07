@@ -42,6 +42,12 @@
                                   (find-directive "@title")
                                   (find-directive "@category")
                                   (find-directive "@sort")
+                                  (find-directive "@opt2")
+                                  (find-directive "@opt5")
+                                  (find-directive "@container")
+                                  (find-directive "@topmenu")
+                                  (find-directive "@leftimg")
+                                  (find-directive "@intext")
                                   ;; *
                                   (when (ppcre:scan "\\A\\*+\\s+" line)
                                     (setf line
