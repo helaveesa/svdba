@@ -48,6 +48,7 @@
                                   (find-directive "@topmenu")
                                   (find-directive "@leftimg")
                                   (find-directive "@intext")
+                                  (find-directive "@pagetype")
                                   ;; *
                                   (when (ppcre:scan "\\A\\*+\\s+" line)
                                     (setf line

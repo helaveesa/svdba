@@ -1,9 +1,6 @@
 -*- mode: org; fill-column: 95 -*-
 @title About
-@topmenu t
-@leftimg t
-@intext t
-
+@pagetype text
 
 <h1>About</h1>
 Хочу поделиться с Вами маленькой тайной. Совсем недавно я, также как и Вы, думала о том, какой

@@ -17,6 +17,16 @@
   (let* ((content (orgdata-content data))
          (sections (orgdata-sections data))
          (directives (orgdata-directives data)))
+    (cond ((equal (getf directives :pagetype) "index")
+           (setf (getf directives :opt2) t
+                 (getf directives :container) "index"))
+          ((equal (getf directives :pagetype)  "photo")
+           (setf (getf directives :topmenu) t
+                 (getf directives :opt5) t))
+          ((equal (getf directives :pagetype)  "text")
+           (setf (getf directives :topmenu) t
+                 (getf directives :leftimg) t
+                 (getf directives :intext) t)))
     (restas:render-object
      designer
      (list :headtitle  (getf directives :title)
