@@ -6,7 +6,7 @@
         (list :link "/whywe/" :title "Почему мы?")
         (list :link "/santorini/" :title "Санторини")
         (list :link "/gallery/" :title "Фотогалерея")
-        (list :link "/contaces/" :title "Свяжитесь с нами")))
+        (list :link "/about/" :title "Свяжитесь с нами")))
 
 
 (restas:start '#:svdba :port 7071)

@@ -40,27 +40,27 @@
 
   <div class="clear"></div>{\n}
 
-  {if $opt2}
+  {if $selector2}
     <div class="photo-options">{\n}
       <div id="wp" class="photo">{\n}
-        <a href="/santorini/" id="wedding-santorini">Свадьба на Санторини</a>{\n}
-        <a href="/cuba/" id="wedding-cuba">Свадьба на Кубе</a>{\n}
+        <a href="{$leftlink}" style="width:470px; text-align:center;">{$lefttitle}</a>{\n}
+        <a href="{$rightlink}" style="width:436px; text-align:center;">{$righttitle}</a>{\n}
       </div>{\n}
     </div>{\n}
     <div class="clear"></div>{\n}
   {/if}
 
-  {if $opt5}
+  {if $selector5}
     <div class="photo-options">
       <div id="wp" class="photo">
         <div id="wp-cover"></div>
       </div>
       <div class="options">
-        <div id="wo01">венчание</div>
-        <div id="wo02">гражданская свадьба</div>
-        <div id="wo03">символическая свадьба</div>
-        <div id="wo04">свадьба в газебо</div>
-        <div id="wo05" class="last">свадьба на пляже</div>
+        <div id="wo{$opt0id}">{$opt0title}</div>
+        <div id="wo{$opt1id}">{$opt1title}</div>
+        <div id="wo{$opt2id}">{$opt2title}</div>
+        <div id="wo{$opt3id}">{$opt3title}</div>
+        <div id="wo{$opt4id}" class="last">{$opt4title}</div>
       </div>
     </div>
     <div class="clear"></div>
