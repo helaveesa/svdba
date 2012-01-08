@@ -16,6 +16,7 @@
    :return-code hunchentoot:+http-not-found+
    :content-type "text/html"))
 
+(restas:debug-mode-on)
 
 (restas:define-route main ("/")
   (path "content/index.org"))
