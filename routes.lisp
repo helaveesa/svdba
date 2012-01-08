@@ -21,6 +21,21 @@
 (restas:define-route main ("/")
   (path "content/index.org"))
 
+(restas:define-route historyvenchaniy ("/historyvenchaniy/")
+  (path "content/historyvenchaniy.org"))
+
+(restas:define-route history-cerkovny-brak ("/history-cerkovny-brak/")
+  (path "content/history-cerkovny-brak.org"))
+
+(restas:define-route history-obruchenie ("/history-obruchenie/")
+  (path "content/history-obruchenie.org"))
+
+(restas:define-route history-mendelson-march ("/history-mendelson-march/")
+  (path "content/history-mendelson-march.org"))
+
+(restas:define-route history-honeymoon ("/history-honeymoon/")
+  (path "content/history-honeymoon.org"))
+
 (restas:define-route fornevesta ("/fornevesta/")
   (path "content/fornevesta.org"))
 
