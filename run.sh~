@@ -1,1 +1,0 @@
-sbcl --eval "(progn (require 'swank) (require 'svdba))"
