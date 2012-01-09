@@ -1,0 +1,9 @@
+-*- mode: org; fill-column: 95 -*-
+@title Makeup
+@pagetype text
+@leftimg photo-inner-02.jpg
+
+<h1>Искусство свадебного макияжа</h1>
+
+
+<br /><br />

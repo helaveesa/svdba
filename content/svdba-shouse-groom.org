@@ -1,0 +1,9 @@
+-*- mode: org; fill-column: 95 -*-
+@title Shouse-groom
+@pagetype text
+@leftimg photo-inner-.jpg
+
+<h1>Свадебная обувь для жениха</h1>
+
+
+<br /><br />

@@ -1,0 +1,9 @@
+-*- mode: org; fill-column: 95 -*-
+@title Zags-nevesta
+@pagetype text
+@leftimg photo-inner-04.jpg
+
+<h1>ЗАГСы</h1>
+
+
+<br /><br />
