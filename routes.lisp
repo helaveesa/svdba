@@ -21,6 +21,27 @@
 (restas:define-route main ("/")
   (path "content/index.org"))
 
+
+(restas:define-route nevesta ("/nevesta/")
+  (path "content/nevesta.org"))
+
+(restas:define-route groom ("/groom/")
+  (path "content/groom.org"))
+
+
+(restas:define-route plan ("/plan/")
+  (path "content/plan.org"))
+
+(restas:define-route servis ("/servis/")
+  (path "content/servis.org"))
+
+(restas:define-route love ("/love/")
+  (path "content/love.org"))
+
+
+(restas:define-route history ("/history/")
+  (path "content/history.org"))
+
 (restas:define-route historyvenchaniy ("/historyvenchaniy/")
   (path "content/historyvenchaniy.org"))
 
@@ -36,17 +57,10 @@
 (restas:define-route history-honeymoon ("/history-honeymoon/")
   (path "content/history-honeymoon.org"))
 
-(restas:define-route fornevesta ("/fornevesta/")
-  (path "content/fornevesta.org"))
 
-(restas:define-route santorini ("/santorini/")
-  (path "content/santorini.org"))
 
-(restas:define-route cuba ("/cuba/")
-  (path "content/cuba.org"))
-
-(restas:define-route honeymoon ("/honeymoon/")
-  (path "content/honeymoon.org"))
+(restas:define-route gallery ("/gallery/")
+  (path "content/gallery.org"))
 
 (restas:define-route about ("/about/")
   (path "content/about.org"))

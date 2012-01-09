@@ -165,5 +165,5 @@ h1 {
 .index .header .logo {float:none; margin:0 auto;}
 .index .photo-options {width:904px; margin:40px auto 0;}
 .index .photo-options .photo {width:906px; background:url(/img/index-image.jpg);}
-.index .photo-options .photo a {display:block; float:left; padding-top:330px; padding-bottom:12px; font-size:28px; color:#42808d; text-decoration:none;}
+.index .photo-options .photo a {display:block; float:left; padding-top:330px; padding-bottom:12px; font-size:16px; color:#42808d; text-decoration:none;}
 .index .photo-options .photo a:hover {text-decoration:underline;}

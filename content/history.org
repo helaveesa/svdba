@@ -1,0 +1,18 @@
+-*- mode: org; fill-column: 95 -*-
+@title Историческая справка
+@pagetype photo
+
+@opt0id 06
+@opt0title Церко́вное бракосочета́ние
+
+@opt1id 07
+@opt1title История медового месяца
+
+@opt2id 08
+@opt2title История знаменитого Марша Мендельсона
+
+@opt3id 09
+@opt3title История обручения
+
+@opt4id 00
+@opt4title История венчания в церкви
