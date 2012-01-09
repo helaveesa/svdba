@@ -1,0 +1,18 @@
+-*- mode: org; fill-column: 95 -*-
+@title Любовь продолжается 
+@pagetype photo
+
+@opt0id 06
+@opt0title Свадебные впечатления
+
+@opt1id 07
+@opt1title Маленькие подсказки молодой жене
+
+@opt2id 08
+@opt2title Нам уже годик!
+
+@opt3id 09
+@opt3title Полезные советы для него и для нее...
+
+@opt4id 00
+@opt4title Изречения о свадьбе
