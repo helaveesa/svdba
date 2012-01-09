@@ -1,0 +1,11 @@
+-*- mode: org; fill-column: 95 -*-
+@title Servis-fant
+@pagetype text
+@leftimg photo-inner-10.jpg
+
+<h1>Играйте в фанты!!!</h1>
+
+
+<br /><br />
+
+

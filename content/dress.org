@@ -1,0 +1,11 @@
+-*- mode: org; fill-column: 95 -*-
+@title Dress
+@pagetype text
+@leftimg photo-inner-00.jpg
+
+<h1>Воздушное платье для невесты</h1>
+
+
+<br /><br />
+
+
