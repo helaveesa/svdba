@@ -21,6 +21,10 @@
 (restas:define-route main ("/")
   (path "content/index.org"))
 
+(restas:define-route son ("/son/")
+  (path "content/son.org"))
+
+
 
 (restas:define-route nevesta ("/nevesta/")
   (path "content/nevesta.org"))
@@ -55,6 +59,8 @@
   (path "content/obruch-ring-groom.org"))
 (restas:define-route zags-groom ("/zags-groom/")
   (path "content/zags-groom.org"))
+(restas:define-route svadeb-maniqur-groom ("/svadeb-maniqur-groom/")
+  (path "content/svadeb-maniqur-groom.org"))
 
 
 
@@ -119,6 +125,11 @@
 
 (restas:define-route gallery ("/gallery/")
   (path "content/gallery.org"))
+(restas:define-route gallery-nevest ("/gallery-nevest/")
+  (path "content/gallery-nevest.org"))
+(restas:define-route gallery-groom ("/gallery-groom/")
+  (path "content/gallery-groom.org"))
+
 
 (restas:define-route about ("/about/")
   (path "content/about.org"))
