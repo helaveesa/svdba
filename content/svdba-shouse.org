@@ -1,7 +1,7 @@
 -*- mode: org; fill-column: 95 -*-
 @title Shouse
 @pagetype text
-@leftimg photo-inner-01.jpg
+@leftimg photo-inner-sh01.jpg
 
 <h1>Свадебная обувь для невесты</h1>
 

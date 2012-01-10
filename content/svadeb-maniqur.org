@@ -1,0 +1,7 @@
+-*- mode: org; fill-column: 95 -*-
+@title Svadeb-maniqur
+@pagetype text
+@leftimg photo-inner-sm02.jpg
+
+<h1>Искусство свадебного маникюра</h1>
+

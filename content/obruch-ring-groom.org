@@ -1,7 +1,7 @@
 -*- mode: org; fill-column: 95 -*-
 @title Obruch-ring-groom
 @pagetype text
-@leftimg photo-inner-01.jpg
+@leftimg photo-inner-or02.jpg
 
 <h1>Обручальные узы</h1>
 
