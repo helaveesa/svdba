@@ -1,7 +1,7 @@
 -*- mode: org; fill-column: 95 -*-
 @title Vpechatleniy
 @pagetype text
-@leftimg photo-inner-.jpg
+@leftimg photo-inner-v00.jpg
 
 <h1>У кого что, а у нас – свадьба!</h1>
 

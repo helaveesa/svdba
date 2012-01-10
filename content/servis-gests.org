@@ -1,7 +1,7 @@
 -*- mode: org; fill-column: 95 -*-
 @title Servis-gests
 @pagetype text
-@leftimg photo-inner-.jpg
+@leftimg photo-inner-s02.jpg
 
 <h1>Гости, дорогие!</h1>
 

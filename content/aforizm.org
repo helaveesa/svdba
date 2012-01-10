@@ -1,7 +1,7 @@
 -*- mode: org; fill-column: 95 -*-
 @title aforizm
 @pagetype text
-@leftimg photo-inner-.jpg
+@leftimg photo-inner-af04.jpg
 
 <h1>"В одном часе любви – целая жизнь.Оноре де БАЛЬЗАК"</h1>
 

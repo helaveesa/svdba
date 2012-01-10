@@ -2,20 +2,20 @@
 @title Фотогалерея
 @pagetype photo
 
-@opt0id 06
-@opt0title название 1
+@opt0id aa
+@opt0title Любите...
 
-@opt1id 07
-@opt1title название 2
+@opt1id bb
+@opt1title Страстно!
 
-@opt2id 08
-@opt2title название 3
+@opt2id cc
+@opt2title Желайте...
 
-@opt3id 09
-@opt3title название 4
+@opt3id dd
+@opt3title Пылко!
 
-@opt4id 00
-@opt4title название 6
+@opt4id ee
+@opt4title Горько...
 
 <br /><br />Прикоснись к истории...
 

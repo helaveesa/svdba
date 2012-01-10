@@ -1,7 +1,7 @@
 -*- mode: org; fill-column: 95 -*-
 @title Year
 @pagetype text
-@leftimg photo-inner-.jpg
+@leftimg photo-inner-y02.jpg
 
 <h1>Нам уже годик!</h1>
 

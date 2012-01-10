@@ -2,19 +2,19 @@
 @title Планирование торжества
 @pagetype photo
 
-@opt0id 06
+@opt0id 0a
 @opt0title Бюджет
 
-@opt1id 07
+@opt1id 0b
 @opt1title Мониторинг рынка свадебных услуг
 
-@opt2id 08
+@opt2id 0c
 @opt2title Атрибутика торжества
 
-@opt3id 09
+@opt3id 0d
 @opt3title Для свидетелей
 
-@opt4id 00
+@opt4id 0e
 @opt4title Свадебные идеи или тематические свадьбы
 
 <br /><br />

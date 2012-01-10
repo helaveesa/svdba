@@ -1,7 +1,7 @@
 -*- mode: org; fill-column: 95 -*-
 @title Plan-svadeb
 @pagetype text
-@leftimg photo-inner-.jpg
+@leftimg photo-inner-p03.jpg
 
 <h1>Всякое препятствие любви только усиливает ее.ШЕКСПИР Уильям</h1>
 
