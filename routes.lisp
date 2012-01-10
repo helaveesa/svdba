@@ -35,6 +35,11 @@
   (path "content/obruch-ring.org"))
 (restas:define-route zags-nevesta ("/zags-nevesta/")
   (path "content/zags-nevesta.org"))
+(restas:define-route svadeb-maniqur ("/svadeb-maniqur/")
+  (path "content/svadeb-maniqur.org"))
+(restas:define-route dress-friend ("/dress-friend/")
+  (path "content/dress-friend.org"))
+
 
 
 (restas:define-route groom ("/groom/")

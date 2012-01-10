@@ -1,0 +1,6 @@
+-*- mode: org; fill-column: 95 -*-
+@title Dress-friend
+@pagetype text
+@leftimg photo-inner-df02.jpg
+
+<h1>Просто, но со вкусом</h1><br /><br />
