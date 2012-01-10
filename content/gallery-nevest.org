@@ -1,0 +1,18 @@
+-*- mode: org; fill-column: 95 -*-
+@title Галерея невест
+@pagetype photo
+
+@opt0id gn0
+@opt0title Любите...
+
+@opt1id gn1
+@opt1title Страстно!
+
+@opt2id gn2
+@opt2title Желайте...
+
+@opt3id gn3
+@opt3title Пылко!
+
+@opt4id gn4
+@opt4title Горько...

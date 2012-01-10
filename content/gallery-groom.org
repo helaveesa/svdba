@@ -1,0 +1,18 @@
+-*- mode: org; fill-column: 95 -*-
+@title Галерея женихов
+@pagetype photo
+
+@opt0id gg0
+@opt0title Любите...
+
+@opt1id gg1
+@opt1title Страстно!
+
+@opt2id gg2
+@opt2title Желайте...
+
+@opt3id gg3
+@opt3title Пылко!
+
+@opt4id gg4
+@opt4title Горько...
