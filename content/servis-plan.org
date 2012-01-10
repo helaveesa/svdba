@@ -1,7 +1,7 @@
 -*- mode: org; fill-column: 95 -*-
 @title Servis-plan
 @pagetype text
-@leftimg photo-inner-.jpg
+@leftimg photo-inner-s03.jpg
 
 <h1>Сервис - планировщик</h1>
 

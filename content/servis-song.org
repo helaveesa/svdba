@@ -1,7 +1,7 @@
 -*- mode: org; fill-column: 95 -*-
 @title Servis-song
 @pagetype text
-@leftimg photo-inner-.jpg
+@leftimg photo-inner-s04.jpg
 
 <h1><br /><br />"А эта свадьба, свадьба, свадьба, пела и плясала,
 <br /><br />И крылья эту свадьбу вдаль несли,

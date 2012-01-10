@@ -1,7 +1,7 @@
 -*- mode: org; fill-column: 95 -*-
 @title Servis-book
 @pagetype text
-@leftimg photo-inner-.jpg
+@leftimg photo-inner-s00.jpg
 
 <h1>Сервис - записная книжка</h1>
 

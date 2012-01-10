@@ -2,18 +2,19 @@
 @title Для жениха
 @pagetype photo
 
-@opt0id 06
+@opt0id 000
 @opt0title Свадебный костюм для жениха
-@opt1id 07
+
+@opt1id 001
 @opt1title Свадебная обувь 
 
-@opt2id 08
+@opt2id 002
 @opt2title Костюмы для свидетеля и друзей жениха
 
-@opt3id 09
+@opt3id 003
 @opt3title Обручальные кольца
 
-@opt4id 00
+@opt4id 004
 @opt4title ЗАГСы 
 
 <br /><br />"Самое плохое пожелание - уходя со свадьбы пожелать молодоженам "спокойной ночи" 

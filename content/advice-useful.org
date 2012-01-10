@@ -1,7 +1,7 @@
 -*- mode: org; fill-column: 95 -*-
 @title Advice-useful
 @pagetype text
-@leftimg photo-inner-.jpg
+@leftimg photo-inner-au03.jpg
 
 <h1>"Совет, да любовь..."</h1>
 

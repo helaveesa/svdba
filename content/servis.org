@@ -2,19 +2,19 @@
 @title Сервис-организатор свадьбы
 @pagetype photo
 
-@opt0id 06
+@opt0id 0000
 @opt0title Сервис - записная книжка
 
-@opt1id 07
+@opt1id 0001
 @opt1title Сервис - планировщик
 
-@opt2id 08
+@opt2id 0002
 @opt2title Сервис - список гостей
 
-@opt3id 09
+@opt3id 0003
 @opt3title Песни на свадьбу
 
-@opt4id 00
+@opt4id 0004
 @opt4title Свадебный фант
 
 <br /><br />

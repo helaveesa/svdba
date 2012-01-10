@@ -1,7 +1,7 @@
 -*- mode: org; fill-column: 95 -*-
 @title Plan-svideteli
 @pagetype text
-@leftimg photo-inner-.jpg
+@leftimg photo-inner-p04.jpg
 
 <h1>Любить – это значит смотреть не на друг друга, а смотреть в одном направлении.СЕНТ-ЭКЗЮПЕРИ Антуан де</h1>
 
