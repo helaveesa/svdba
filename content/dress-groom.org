@@ -1,9 +1,12 @@
 -*- mode: org; fill-column: 95 -*-
 @title Dress-groom
 @pagetype text
-@leftimg photo-inner-.jpg
+@leftimg photo-inner-dg02.jpg
 
 <h1>Свадебный костюм для жениха</h1>
+
+
+<a href="/svadeb-maniqur-groom/">Мужской свадебный маникюр</a><br /><br />
 
 
 <br /><br />

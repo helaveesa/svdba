@@ -78,6 +78,7 @@
   (path "content/plan-svadeb.org"))
 
 
+
 (restas:define-route servis ("/servis/")
   (path "content/servis.org"))
 (restas:define-route servis-book ("/servis-book/")
@@ -90,6 +91,7 @@
   (path "content/servis-song.org"))
 (restas:define-route servis-fant ("/servis-fant/")
   (path "content/servis-fant.org"))
+
 
 
 (restas:define-route love ("/love/")
@@ -105,6 +107,7 @@
   (path "content/advice-useful.org"))
 (restas:define-route aforizm ("/aforizm/")
   (path "content/aforizm.org"))
+
 
 
 (restas:define-route history ("/history/")
@@ -129,6 +132,7 @@
   (path "content/gallery-nevest.org"))
 (restas:define-route gallery-groom ("/gallery-groom/")
   (path "content/gallery-groom.org"))
+
 
 
 (restas:define-route about ("/about/")
