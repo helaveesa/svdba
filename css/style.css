@@ -1,6 +1,6 @@
 body {  /* Old text color: #72a0ad */
   color:#577c88;
-  width:906px;
+  width:916px;
   margin:0 auto;
   padding:0;
   font-family:Arial, Verdana, Tahoma;
@@ -50,7 +50,7 @@ h1 {
   float:left;
   margin-left:120px;
   margin-top:10px;
-  width:550px;
+  width:560px;
 }
 
 .header .menu div {
@@ -58,7 +58,7 @@ h1 {
   float:left;
   font-family:Courier New, Courier, Arial, Verdana;
   font-size:11px;
-  width:200px;
+  width:210px;
   padding:12px 20px;
   border-bottom:1px dotted #e8e8e8;
 }
