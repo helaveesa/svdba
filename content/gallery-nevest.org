@@ -3,16 +3,18 @@
 @pagetype photo
 
 @opt0id gn0
-@opt0title Любите...
+@opt0title Креатив - невеста в черном...
 
 @opt1id gn1
-@opt1title Страстно!
+@opt1title Косплей по манхве "Невеста дьявола" 
 
 @opt2id gn2
-@opt2title Желайте...
+@opt2title "Невеста Чакки!"
 
 @opt3id gn3
-@opt3title Пылко!
+@opt3title Невеста Дракулы: Алира...
 
 @opt4id gn4
-@opt4title Горько...
+@opt4title Н.И. Салов-Астахов - Невеста Христа
+
+<h1>Какая невеста твоя?</h1>

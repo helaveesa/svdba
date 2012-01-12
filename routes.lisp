@@ -24,6 +24,10 @@
 (restas:define-route son ("/son/")
   (path "content/son.org"))
 
+(restas:define-route svadeb-k ("/svadeb-k/")
+  (path "content/svadeb-k.org"))
+
+
 
 
 (restas:define-route nevesta ("/nevesta/")
@@ -99,8 +103,24 @@
 
 (restas:define-route vpechatleniy ("/vpechatleniy/")
   (path "content/vpechatleniy.org"))
+
+
+
 (restas:define-route advice ("/advice/")
   (path "content/advice.org"))
+(restas:define-route ten ("/ten/")
+  (path "content/ten.org"))
+(restas:define-route iskra ("/iskra/")
+  (path "content/iskra.org"))
+(restas:define-route romantika ("/romantika/")
+  (path "content/romantika.org"))
+(restas:define-route happybrak ("/happybrak/")
+  (path "content/happybrak.org"))
+(restas:define-route netrazvodam ("/netrazvodam/")
+  (path "content/netrazvodam.org"))
+
+
+
 (restas:define-route year ("/year/")
   (path "content/year.org"))
 (restas:define-route advice-useful ("/advice-useful/")

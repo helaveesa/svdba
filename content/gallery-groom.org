@@ -3,16 +3,18 @@
 @pagetype photo
 
 @opt0id gg0
-@opt0title Любите...
+@opt0title Супермен?
 
 @opt1id gg1
-@opt1title Страстно!
+@opt1title Шляпник?
 
 @opt2id gg2
-@opt2title Желайте...
+@opt2title Росомаха?
 
 @opt3id gg3
-@opt3title Пылко!
+@opt3title Бэтмен?
 
 @opt4id gg4
-@opt4title Горько...
+@opt4title Инспектор-гаджет?
+
+<h1>Какой жених твой?</h1>
