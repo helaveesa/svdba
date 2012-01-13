@@ -1,0 +1,18 @@
+-*- mode: org; fill-column: 95 -*-
+@title Фотогалерея
+@pagetype photo
+
+@opt0id gd0
+@opt0title Любите...
+
+@opt1id gd1
+@opt1title Страстно!
+
+@opt2id gd2
+@opt2title Желайте...
+
+@opt3id gd3
+@opt3title Пылко!
+
+@opt4id gd4
+@opt4title Горько...
