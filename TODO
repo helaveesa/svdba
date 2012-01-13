@@ -1,2 +1,23 @@
-* TODO Исправить servise на service (logo)
-* TODO Изменить контакты на сайте (в "подвале" сайта) templates.htm (helaveesa@valinor:~/repo/svdba$ gedit templates.htm)
+-*- mode: org; ; fill-column: 130 -*-
+
+* [Терминология]
+
+* DONE Исправить servise на service (logo)
+* DONE Изменить контакты на сайте (в "подвале" сайта) templates.htm (helaveesa@valinor:~/repo/svdba$ gedit templates.htm)
+* TODO
+
+
+
+
+
+
+
+
+
+
+
+* DELEGATED
+* START
+* WAIT
+* CANCEL
+* TODO ITERATE
