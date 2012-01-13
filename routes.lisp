@@ -33,6 +33,8 @@
 (restas:define-route nevesta ("/nevesta/")
   (path "content/nevesta.org"))
 
+(restas:define-route podgotovka-nevesta ("/podgotovka-nevesta/")
+  (path "content/podgotovka-nevesta.org"))
 (restas:define-route dress ("/dress/")
   (path "content/dress.org"))
 (restas:define-route svdba-shouse ("/svdba-shouse/")
@@ -43,6 +45,8 @@
   (path "content/obruch-ring.org"))
 (restas:define-route zags-nevesta ("/zags-nevesta/")
   (path "content/zags-nevesta.org"))
+(restas:define-route take-zags ("/take-zags/")
+  (path "content/take-zags.org"))
 (restas:define-route svadeb-maniqur ("/svadeb-maniqur/")
   (path "content/svadeb-maniqur.org"))
 (restas:define-route dress-friend ("/dress-friend/")
@@ -77,6 +81,8 @@
 (restas:define-route plan-atribut ("/plan-atribut/")
   (path "content/plan-atribut.org"))
 (restas:define-route plan-svideteli ("/plan-svideteli/")
+(restas:define-route pravda-dress ("/pravda-dress/")
+  (path "content/pravda-dress.org"))
   (path "content/plan-svideteli.org"))
 (restas:define-route plan-svadeb ("/plan-svadeb/")
   (path "content/plan-svadeb.org"))
@@ -95,6 +101,21 @@
   (path "content/servis-song.org"))
 (restas:define-route servis-fant ("/servis-fant/")
   (path "content/servis-fant.org"))
+(restas:define-route servis-brakform ("/servis-brakform/")
+  (path "content/servis-brakform.org"))
+(restas:define-route servis-rukaiserdce ("/servis-rukaiserdce/")
+  (path "content/servis-rukaiserdce.org"))
+(restas:define-route posle-svadb ("/posle-svadb/")
+  (path "content/posle-svadb.org"))
+(restas:define-route dnisvadb ("/dnisvadb/")
+  (path "content/dnisvadb.org"))
+(restas:define-route servis-lovebook ("/servis-lovebook/")
+  (path "content/servis-lovebook.org"))
+(restas:define-route servis-primeta ("/servis-primeta/")
+  (path "content/servis-primeta.org"))
+(restas:define-route servis-links ("/servis-links/")
+  (path "content/servis-links.org"))
+
 
 
 
@@ -143,6 +164,9 @@
   (path "content/history-mendelson-march.org"))
 (restas:define-route history-honeymoon ("/history-honeymoon/")
   (path "content/history-honeymoon.org"))
+(restas:define-route venchanie ("/venchanie/")
+  (path "content/venchanie.org"))
+
 
 
 
@@ -152,6 +176,8 @@
   (path "content/gallery-nevest.org"))
 (restas:define-route gallery-groom ("/gallery-groom/")
   (path "content/gallery-groom.org"))
+(restas:define-route gallery-dress ("/gallery-dress/")
+  (path "content/gallery-dress.org"))
 
 
 

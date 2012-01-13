@@ -1,7 +1,7 @@
 -*- mode: org; fill-column: 95 -*-
-@title History-mendelson-march
+@title История знаменитого Марша Мендельсона
 @pagetype text
-@leftimg photo-inner-7.jpg
+@leftimg photo-inner-hmm02.jpg
 
 <h1>History-mendelson-march</h1>
 

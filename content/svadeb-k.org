@@ -3,16 +3,16 @@
 @pagetype photo
 
 @opt0id sk0
-@opt0title Свадебные курьёзы
+@opt0title Курьезный случай закончился свиданием
 
 @opt1id sk1
-@opt1title Свадебные курьёзы
+@opt1title Журнал «Зеркало жизни» за 1914 год
 
 @opt2id sk2
-@opt2title Свадебные курьёзы
+@opt2title «Живописное обозрение», 1904 год
 
 @opt3id sk3
-@opt3title Свадебные курьёзы
+@opt3title заметка «Разводная горячка во Франции»
 
 @opt4id sk4
 @opt4title Свадебные курьёзы

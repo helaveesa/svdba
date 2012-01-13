@@ -3,16 +3,16 @@
 @pagetype text
 @leftimg photo-inner-au03.jpg
 
-<h1>"Совет, да любовь..."</h1>
+<h1>"Совет, да любовь..."</h1><br /><br />
 
-<a href="/servis-fant/">-Свадебный фант</a><br /><br />
-<a href="/servis-fant/">-Свадебный фант</a><br /><br />
-<a href="/servis-fant/">-Свадебный фант</a><br /><br />
-<a href="/servis-fant/">-Свадебный фант</a><br /><br />
-<a href="/servis-fant/">-Свадебный фант</a><br /><br />
-<a href="/servis-fant/">-Свадебный фант</a><br /><br />
-<a href="/servis-fant/">-Свадебный фант</a><br /><br />
-
+<a href="/servis-brakform/">-Брачные формальности</a><br /><br />
+<a href="/servis-predlojenie/">-Для настоящего мужчины - как правильно сделать ЕЙ предложение</a><br /><br />
+<a href="/servis-rukaiserdce/">-Для настоящего мужчины - как просить руки у родителей невесты</a><br /><br />
+<a href="/posle-svadb/">-Жизнь после свадьбы продолжается</a><br /><br />
+<a href="/dnisvadb/">-Удачные дни для свадьбы</a><br /><br />
+<a href="/servis-lovebook/">-Любовная литература</a><br /><br />
+<a href="/servis-primeta/">-Свадебные приметы</a><br /><br />
+<a href="/servis-links/">-Полезные ссылки</a><br /><br />
 
 <br /><br />
 

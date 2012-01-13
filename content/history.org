@@ -2,17 +2,23 @@
 @title Историческая справка
 @pagetype photo
 
-@opt0id 06
+@opt0id h00
 @opt0title Церко́вное бракосочета́ние
 
-@opt1id 07
+@opt1id h01
 @opt1title История медового месяца
 
-@opt2id 08
+@opt2id h02
 @opt2title История знаменитого Марша Мендельсона
 
-@opt3id 09
+@opt3id h03
 @opt3title История обручения
 
-@opt4id 00
+@opt4id h04
 @opt4title История венчания в церкви
+
+<a href="/history-cerkovny-brak/">Церко́вное бракосочета́ние</a><br /><br />
+<a href="/history-honeymoon/">История медового месяца</a><br /><br />
+<a href="/history-mendelson-marsh/">История знаменитого Марша Мендельсона</a><br /><br />
+<a href="/history-obruchenie/">История обручения</a><br /><br />
+<a href="/historyvenchaniy/">История венчания в церкви</a><br /><br />	

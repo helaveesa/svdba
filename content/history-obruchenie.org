@@ -1,7 +1,7 @@
 -*- mode: org; fill-column: 95 -*-
-@title History-obruchenie
+@title ﻿История обручения
 @pagetype text
-@leftimg photo-inner-7.jpg
+@leftimg photo-inner-ho01.jpg
 
 <h1>History-obruchenie</h1>
 

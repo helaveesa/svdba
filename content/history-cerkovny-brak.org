@@ -1,7 +1,7 @@
 ﻿-*- mode: org; fill-column: 95 -*-
-@title History-cerkovny-brak
+@title Церко́вный бра́к
 @pagetype text
-@leftimg photo-inner-7.jpg
+@leftimg photo-inner-hcb04.jpg
 
 <h1>History-cerkovny-brak</h1>
 

@@ -1,7 +1,7 @@
 -*- mode: org; fill-column: 95 -*-
-@title History-honeymoon
+@title История медового месяца
 @pagetype text
-@leftimg photo-inner-7.jpg
+@leftimg photo-inner-hh03.jpg
 
 <h1>History-honeymoon</h1>
 
