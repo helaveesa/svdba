@@ -24,6 +24,9 @@
 (restas:define-route son ("/son/")
   (path "content/son.org"))
 
+(restas:define-route znachenie-nevesta ("/znachenie-nevesta/")
+  (path "content/znachenie-nevesta.org"))
+
 (restas:define-route svadeb-k ("/svadeb-k/")
   (path "content/svadeb-k.org"))
 (restas:define-route ha-ha ("/ha-ha/")
@@ -174,6 +177,8 @@
 
 
 
+
+
 (restas:define-route gallery ("/gallery/")
   (path "content/gallery.org"))
 (restas:define-route gallery-nevest ("/gallery-nevest/")
@@ -186,6 +191,10 @@
   (path "content/gallery-dress-primer.org"))
 (restas:define-route gallery-nevest-mir ("/gallery-nevest-mir/")
   (path "content/gallery-nevest-mir.org"))
+(restas:define-route svadeb-tradision ("/svadeb-tradision/")
+  (path "content/svadeb-tradision.org"))
+(restas:define-route gallery-nevest-mir2 ("/gallery-nevest-mir2/")
+  (path "content/gallery-nevest-mir2.org"))
 
 
 
