@@ -21,6 +21,7 @@
 <a href="/gallery-nevest/">Галерея невест</a><br /><br />
 <a href="/gallery-groom/">Галерея женихов</a><br /><br />
 <a href="/gallery-dress/">Галерея старинных свадебных платьев</a><br /><br />
+<a href="/gallery-nevest-mir/">Галерея невест мира</a><br /><br />
 
 <br /><br />Прикоснись к истории...
 

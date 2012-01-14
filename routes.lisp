@@ -26,7 +26,11 @@
 
 (restas:define-route svadeb-k ("/svadeb-k/")
   (path "content/svadeb-k.org"))
+(restas:define-route ha-ha ("/ha-ha/")
+  (path "content/ha-ha.org"))
 
+(restas:define-route pokaz ("/pokaz/")
+  (path "content/pokaz.org"))
 
 
 
@@ -178,6 +182,10 @@
   (path "content/gallery-groom.org"))
 (restas:define-route gallery-dress ("/gallery-dress/")
   (path "content/gallery-dress.org"))
+(restas:define-route gallery-dress-primer ("/gallery-dress-primer/")
+  (path "content/gallery-dress-primer.org"))
+(restas:define-route gallery-nevest-mir ("/gallery-nevest-mir/")
+  (path "content/gallery-nevest-mir.org"))
 
 
 

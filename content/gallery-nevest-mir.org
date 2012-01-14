@@ -1,0 +1,18 @@
+-*- mode: org; fill-column: 95 -*-
+@title Gallery-nevest-mir
+@pagetype photo
+
+@opt0id gnm0
+@opt0title Страна
+
+@opt1id gnm1
+@opt1title Страна
+
+@opt2id gnm2
+@opt2title Страна
+
+@opt3id gnm3
+@opt3title Страна
+
+@opt4id gnm4
+@opt4title Страна

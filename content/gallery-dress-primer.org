@@ -1,0 +1,10 @@
+-*- mode: org; fill-column: 95 -*-
+@title Gallery-dress-primer
+@pagetype text
+@leftimg photo-inner-12.jpg
+
+<h1>В данном разделе Вы можете поместить объявление о продаже свадебного, вечернего, и прочие виды, платья</h1><br /><br />
+<h1>Для связи: наша почти голубиная почта:</h1>
+i.am.rigidus@gmail.com;<br/>
+helaveesa.nolder@gmail.com
+

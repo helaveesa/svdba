@@ -1,0 +1,7 @@
+-*- mode: org; fill-column: 95 -*-
+@title Pokaz
+@pagetype text
+@leftimg photo-inner-11.jpg
+
+<h1>"Cебя показать, и других посмотреть"</h1>
+В данном разделе молодые могут выкладывать свои фото (одно фото, главное);
