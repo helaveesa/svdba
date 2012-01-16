@@ -36,7 +36,6 @@
   (path "content/pokaz.org"))
 
 
-
 (restas:define-route nevesta ("/nevesta/")
   (path "content/nevesta.org"))
 
@@ -44,6 +43,8 @@
   (path "content/podgotovka-nevesta.org"))
 (restas:define-route dress ("/dress/")
   (path "content/dress.org"))
+(restas:define-route pravda-dress ("/pravda-dress/")
+  (path "content/pravda-dress.org"))
 (restas:define-route svdba-shouse ("/svdba-shouse/")
   (path "content/svdba-shouse.org"))
 (restas:define-route makeup ("/makeup/")
@@ -52,8 +53,8 @@
   (path "content/obruch-ring.org"))
 (restas:define-route zags-nevesta ("/zags-nevesta/")
   (path "content/zags-nevesta.org"))
-(restas:define-route take-zags ("/take-zags/")
-  (path "content/take-zags.org"))
+(restas:define-route take-zags-nevesta ("/take-zags-nevesta/")
+  (path "content/take-zags-nevesta.org"))
 (restas:define-route svadeb-maniqur ("/svadeb-maniqur/")
   (path "content/svadeb-maniqur.org"))
 (restas:define-route dress-friend ("/dress-friend/")
@@ -74,6 +75,8 @@
   (path "content/obruch-ring-groom.org"))
 (restas:define-route zags-groom ("/zags-groom/")
   (path "content/zags-groom.org"))
+(restas:define-route take-zags ("/take-zags/")
+  (path "content/take-zags.org"))
 (restas:define-route svadeb-maniqur-groom ("/svadeb-maniqur-groom/")
   (path "content/svadeb-maniqur-groom.org"))
 
@@ -81,6 +84,7 @@
 
 (restas:define-route plan ("/plan/")
   (path "content/plan.org"))
+
 (restas:define-route plan-budjet ("/plan-budjet/")
   (path "content/plan-budjet.org"))
 (restas:define-route plan-rinok ("/plan-rinok/")
@@ -88,9 +92,21 @@
 (restas:define-route plan-atribut ("/plan-atribut/")
   (path "content/plan-atribut.org"))
 (restas:define-route plan-svideteli ("/plan-svideteli/")
-(restas:define-route pravda-dress ("/pravda-dress/")
-  (path "content/pravda-dress.org"))
   (path "content/plan-svideteli.org"))
+(restas:define-route svidetel-she ("/svidetel-she/")
+  (path "content/svidetel-she.org"))
+(restas:define-route svidetel-he ("/svidetel-he/")
+  (path "content/svidetel-he.org"))
+(restas:define-route rech-she ("/rech-she/")
+  (path "content/rech-she.org"))
+(restas:define-route rech-he ("/rech-he/")
+  (path "content/rech-he.org"))
+(restas:define-route rol-she ("/rol-she/")
+  (path "content/rol-she.org"))
+(restas:define-route rol-he ("/rol-he/")
+  (path "content/rol-he.org"))
+(restas:define-route test-groom ("/test-groom/")
+  (path "content/test-groom.org"))
 (restas:define-route plan-svadeb ("/plan-svadeb/")
   (path "content/plan-svadeb.org"))
 
@@ -98,6 +114,7 @@
 
 (restas:define-route servis ("/servis/")
   (path "content/servis.org"))
+
 (restas:define-route servis-book ("/servis-book/")
   (path "content/servis-book.org"))
 (restas:define-route servis-plan ("/servis-plan/")
@@ -136,6 +153,7 @@
 
 (restas:define-route advice ("/advice/")
   (path "content/advice.org"))
+
 (restas:define-route ten ("/ten/")
   (path "content/ten.org"))
 (restas:define-route iskra ("/iskra/")
@@ -177,10 +195,9 @@
 
 
 
-
-
 (restas:define-route gallery ("/gallery/")
   (path "content/gallery.org"))
+
 (restas:define-route gallery-nevest ("/gallery-nevest/")
   (path "content/gallery-nevest.org"))
 (restas:define-route gallery-groom ("/gallery-groom/")
@@ -189,6 +206,8 @@
   (path "content/gallery-dress.org"))
 (restas:define-route gallery-dress-primer ("/gallery-dress-primer/")
   (path "content/gallery-dress-primer.org"))
+(restas:define-route gallery-dress-primergroom ("/gallery-dress-primergroom/")
+  (path "content/gallery-dress-primergroom.org"))
 (restas:define-route gallery-nevest-mir ("/gallery-nevest-mir/")
   (path "content/gallery-nevest-mir.org"))
 (restas:define-route svadeb-tradision ("/svadeb-tradision/")

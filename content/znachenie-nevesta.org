@@ -3,19 +3,19 @@
 @pagetype photo
 
 @opt0id zn0
-@opt0title 
+@opt0title fiancée
 
 @opt1id zn1
-@opt1title 
+@opt1title sposa
 
 @opt2id zn2
-@opt2title 
+@opt2title bride
 
 @opt3id zn3
-@opt3title 
+@opt3title destinata
 
 @opt4id zn4
-@opt4title 
+@opt4title novia
 
 <h1>Значение слова невеста</h1><br /><br />
 Значение слова невеста в большинстве языков мира так или иначе сводится к "ниспосланности". Т.е. - суженая. Однако, в английском слове невеста, Bride, лингвисты усматривают корень тевтонского слова "готовит" (в смысле - куховарить). Что менее романтично, но вполне звучит логично для мужских ушей.<br /><br />
