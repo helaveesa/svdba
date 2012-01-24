@@ -1,0 +1,20 @@
+-*- mode: org; fill-column: 95 -*-
+@title Test-groom
+@pagetype photo
+
+@opt0id testg0
+@opt0title text
+
+@opt1id testg1
+@opt1title text
+
+@opt2id testg2
+@opt2title text
+
+@opt3id testg3
+@opt3title text
+
+@opt4id testg4
+@opt4title text
+
+text
