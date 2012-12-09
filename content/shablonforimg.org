@@ -1,0 +1,23 @@
+Mini-pick:
+
+<img width="30" height="30" src="/img/trilist.jpg">
+
+Big-pick-sect:
+
+<TABLE BORDER CELLPADDING=10 CELLSPACING=10>
+        <TR>
+                <TD><img src="/img/img_PNG/home_bluzont.png" width="220" height="110"></TD>
+                <TD><img src="/img/img_PNG/polis_osago.png" width="220" height="110"></TD>
+                <TD><img src="/img/img_PNG/zont.png" width="220" height="110"></TD>
+        </TR>
+        <TR>
+                <TD><img src="/img/img_PNG/car.png" width="220" height="110"></TD>
+                <TD><img src="/img/img_PNG/car_hand1.png" width="220" height="110"></TD>
+                <TD><img src="/img/img_PNG/hand_tree.png" width="220" height="110"></TD>
+        </TR>
+</TABLE>
+
+
+Zvezda:
+
+<span style="color: red">★</span>Страховой брокер: Яков Зайдман
