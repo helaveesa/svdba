@@ -1,27 +1,30 @@
 <br>
+<br>
 <table border="1">
  <tr>
    <td>
-   <img width="210" height="180" src="/img/picksvdba/svdba_(53).jpg" />
+   <img width="210" height="180" src="/img/picksvdba/svdba_().jpg" />
    </td>
    <td>
-   <img width="210" height="180" src="/img/picksvdba/svdba_(331).jpg" />
-   </td>
- </tr>
- <tr>
-   <td>
-   <img width="210" height="180" src="/img/picksvdba/svdba_(339).jpg" />
-   </td>
-   <td>
-   <img width="210" height="180" src="/img/picksvdba/svdba_(311).jpg" />
+   <img width="210" height="180" src="/img/picksvdba/svdba_().jpg" />
    </td>
  </tr>
  <tr>
    <td>
-   <img width="210" height="180" src="/img/picksvdba/svdba_(309).jpg" />
+   <img width="210" height="180" src="/img/picksvdba/svdba_().jpg" />
    </td>
    <td>
-   <img width="210" height="180" src="/img/picksvdba/svdba_(295).jpg" />
+   <img width="210" height="180" src="/img/picksvdba/svdba_().jpg" />
+   </td>
+ </tr>
+ <tr>
+   <td>
+   <img width="210" height="180" src="/img/picksvdba/svdba_().jpg" />
+   </td>
+   <td>
+   <img width="210" height="180" src="/img/picksvdba/svdba_().jpg" />
    </td>
  </tr>
 </table>
+<br>
+<br>
